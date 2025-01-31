@@ -1,4 +1,10 @@
-## Hi there 👋
+![Snake animation](https://github.com/yuribrunoss/yuribrunoss/blob/output/github-contribution-grid-snake.svg)
+
+# Hello, my name is *Yuri Bruno*!
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+
+
+## Welcome to my GitHub profile. 👋
 
 <!--
 **yuribrunoss/yuribrunoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
