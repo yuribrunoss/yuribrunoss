@@ -1,3 +1,7 @@
+![Snake animation](https://github.com/yuribrunoss/yuribrunoss/blob/output/github-contribution-grid-snake.svg)
+
+
+
 # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/> Hello, my name is Yuri Bruno! 
  
 ### 👋 Welcome to my GitHub profile.
