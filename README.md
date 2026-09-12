@@ -1,62 +1,163 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/> Hello, my name is Yuri Bruno! 
- 
-### 👋 Welcome to my GitHub profile.
+# 👋 Hi, I'm Yuri Bruno
 
-<div>
-  <a href="https://github.com/yuribrunoss">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuribrunoss&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=yuribrunoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+### AI Automation Developer in Training
 
-## 💻 Tools and Technologies
+Building AI solutions with Python, AI Agents, APIs and Automation.
 
-<div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-<div>
+🇧🇷 Brazil • Learning in Public • Open to Remote Opportunities
+
+---
+
+## 🚀 Current Mission
+
+> From Uber Driver → AI Automation Developer.
+
+Building real-world AI solutions while documenting the journey publicly.
+
+Current focus:
+
+* Python for AI
+* AI Automation
+* AI Agents
+* FastAPI
+* PostgreSQL
+* n8n
+* OpenAI API
+
+---
+
+## 💡 About Me
+
+I'm building projects publicly to become an AI Automation Developer working remotely for international companies.
+
+My projects combine:
+
+* Artificial Intelligence
+* Backend Development
+* Automation
+* Business Software
+
+Everything I'm learning is applied inside real projects.
 
 
-## 📚 I’m currently learning
 
-<div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>  
-<div>
+## 📊 GitHub Analytics
 
-## 👤Contacts
+These cards update automatically as I progress through the Missão IA Global roadmap.
+
+> Building consistency, one commit at a time.
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ybss84&theme=tokyonight&hide_border=true)
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Artificial Intelligence
+
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
+
+### Automation
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D5DF6?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![UV](https://img.shields.io/badge/UV-6B57FF?style=for-the-badge)
+
+---
+
+## 📍 Featured Projects
+
+### 🚀 YUYU AI ERP
+
+AI-powered ERP platform for phone repair businesses.
+
+Status:
+
+Architecture + Backend Development.
+
+### 🌍 Missão IA Global
+
+Complete roadmap documenting my journey into Artificial Intelligence.
+
+Status:
+
+Volume 0 Completed.
+
+---
+
+## 🎯 Current Goals (90 Days)
+
+* Build 12 AI Portfolio Projects.
+* Master Python for AI.
+* Learn FastAPI + PostgreSQL.
+* Build AI Agents for businesses.
+* Prepare for international remote opportunities.
+
+---
+
+## 🌱 Learning in Public
+
+## 🗺️ Missão IA Global Progress
+
+| Volume                            | Status  |
+| --------------------------------- | ------- |
+| 🟢 Volume 0 — Foundation          | 100%    |
+| 🟡 Volume 1 — Python for AI       | Next    |
+| ⚪ Volume 2 — APIs & Automation    | Planned |
+| ⚪ Volume 3 — AI Agents            | Planned |
+| ⚪ Volume 4 — Backend for AI       | Planned |
+| ⚪ Volume 5 — International Career | Planned |
+
+Every week I'm publishing my learning journey.
+
+Topics include:
+
+* Python
+* AI
+* FastAPI
+* AI Agents
+* Automation
+* Backend
+
+---
+
+## 📚 Missão IA Global Roadmap
+
+* [x] Volume 0 — Foundation
+* [ ] Volume 1 — Python for AI
+* [ ] Volume 2 — APIs & Automation
+* [ ] Volume 3 — AI Agents
+* [ ] Volume 4 — Backend for AI
+* [ ] Volume 5 — International Career
+
+---
+
+## 🤝 Connect With Me
+
 <div>
 <a href = "mailto:yuribruno.pessoal@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/yuri-bruno" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+GitHub Projects ↓
 
-
-
-  
-<!--
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-  
-
-  <a href="https://instagram.com/_yuribruno" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-  
-**yuribrunoss/yuribrunoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Snake animation](https://github.com/yuribrunoss/yuribrunoss/blob/output/github-contribution-grid-snake.svg)
-
--->
