@@ -18,11 +18,9 @@ Current focus:
 
 * Python for AI
 * AI Automation
-* AI Agents
 * FastAPI
-* PostgreSQL
-* n8n
-* OpenAI API
+* Gemini API
+* SQLite
 
 ---
 
@@ -39,7 +37,7 @@ My projects combine:
 
 Everything I'm learning is applied inside real projects.
 
-
+📚 My first steps in Python (fundamentals, terminal scripts) are documented in my previous account: [github.com/ybss84](https://github.com/ybss84)
 
 ## 📊 GitHub Analytics
 
@@ -47,7 +45,7 @@ These cards update automatically as I progress through the Missão IA Global roa
 
 > Building consistency, one commit at a time.
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ybss84&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yuribrunoss&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -62,19 +60,11 @@ These cards update automatically as I progress through the Missão IA Global roa
 ### Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Artificial Intelligence
 
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
-
-### Automation
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D5DF6?style=for-the-badge)
 
 ### Tools
 
@@ -86,6 +76,16 @@ These cards update automatically as I progress through the Missão IA Global roa
 ---
 
 ## 📍 Featured Projects
+
+### 🧠 Classificador de Feedbacks com IA
+
+API de automação com IA que recebe o feedback de um cliente, classifica o sentimento (positivo, neutro ou negativo) usando a API do Gemini, gera uma justificativa e salva tudo em um histórico SQLite.
+
+Status:
+
+Em produção — testado e funcionando de ponta a ponta.
+
+🔗 [Testar a API (Swagger)](https://missao-ia-global-classificador.onrender.com/docs)
 
 ### 🚀 YUYU AI ERP
 
@@ -119,14 +119,14 @@ Volume 0 Completed.
 
 ## 🗺️ Missão IA Global Progress
 
-| Volume                            | Status  |
-| --------------------------------- | ------- |
-| 🟢 Volume 0 — Foundation          | 100%    |
-| 🟡 Volume 1 — Python for AI       | Next    |
-| ⚪ Volume 2 — APIs & Automation    | Planned |
-| ⚪ Volume 3 — AI Agents            | Planned |
-| ⚪ Volume 4 — Backend for AI       | Planned |
-| ⚪ Volume 5 — International Career | Planned |
+| Volume                            | Status                                           |
+| --------------------------------- | ------------------------------------------------- |
+| 🟢 Volume 0 — Foundation          | 100%                                              |
+| 🟡 Volume 1 — Python for AI       | Em andamento — 1º projeto entregue e em produção  |
+| ⚪ Volume 2 — APIs & Automation    | Planned                                           |
+| ⚪ Volume 3 — AI Agents            | Planned                                           |
+| ⚪ Volume 4 — Backend for AI       | Planned                                           |
+| ⚪ Volume 5 — International Career | Planned                                           |
 
 Every week I'm publishing my learning journey.
 
@@ -156,8 +156,9 @@ Topics include:
 
 <div>
 <a href = "mailto:yuribruno.pessoal@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/yuri-bruno" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/yuri-bruno" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-GitHub Projects ↓
+<br><br>
 
+GitHub Projects ↓
