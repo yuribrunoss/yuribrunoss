@@ -1,62 +1,84 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/> Hello, my name is Yuri Bruno! 
- 
-### 👋 Welcome to my GitHub profile.
+# 👋 Hi, I'm Yuri Bruno
 
-<div>
-  <a href="https://github.com/yuribrunoss">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuribrunoss&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=yuribrunoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+### AI Automation Developer in training • Backend Developer (Python) • Building in Public
 
-## 💻 Tools and Technologies
+🇧🇷 Natal, Rio Grande do Norte — Brazil • 🌍 Open to Remote Opportunities
 
-<div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-<div>
+I'm a Brazilian developer transitioning into **AI Engineering**, building real,
+production-tested software instead of collecting tutorials — and documenting
+the whole journey publicly through **Missão IA Global**.
 
+---
 
-## 📚 I’m currently learning
+## 🧭 About Me
 
-<div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>  
-<div>
+I come from a background in IT support and digital operations (Aptek
+Tecnologia, Grupo Services, Beltrasi Renz) and hold a technical degree in
+Information Technology. I'm now focused on becoming an **AI Automation
+Developer / Backend Developer**, learning by shipping one real project at a
+time instead of collecting certificates.
 
-## 👤Contacts
-<div>
-<a href = "mailto:yuribruno.pessoal@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/yuri-bruno" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+Every milestone below is code that runs, gets tested end-to-end, and gets
+deployed — not just a plan.
 
+---
 
+## 🚀 Featured Project — AI Feedback Classifier
 
+A production API that classifies customer feedback and decides on its own
+when a case needs a human.
 
-  
-<!--
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+- 🧠 Classifies sentiment (positive / negative / neutral) with a justification, using the **Gemini API**.
+- ✍️ Suggests a ready-to-send reply to the customer.
+- 🤖 A real **AI agent** — not a fixed `if` rule — decides via **function calling** whether a case needs human follow-up, writing its own reason when it does.
+- 🔎 The agent can consult past similar cases before deciding, to catch recurring problems.
+- 🗄️ **PostgreSQL** in production (migrated from SQLite so the history survives redeploys).
+- 🐳 **Dockerized** — API + Postgres via `docker-compose`, one command to run locally.
+- ☁️ Deployed on **Render**, infrastructure as code via `render.yaml`.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-  
+🔗 **Live API docs:** [missao-ia-global-classificador.onrender.com/docs](https://missao-ia-global-classificador.onrender.com/docs)
+📂 **Code:** [github.com/yuribrunoss/missao-ia-global](https://github.com/yuribrunoss/missao-ia-global)
 
-  <a href="https://instagram.com/_yuribruno" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+---
 
-  
-**yuribrunoss/yuribrunoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🗺️ Missão IA Global — Roadmap
 
-Here are some ideas to get you started:
+My learning roadmap, one volume at a time — each one shipped as real, tested
+code before moving to the next:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+| Volume                 | Focus                              | Status                |
+| ----------------------- | ----------------------------------- | ---------------------- |
+| 1 — Python for AI       | First Gemini-powered CLI            | ✅ Concluded            |
+| 2 — Automation          | Decision + action logic             | ✅ Concluded            |
+| 3 — AI Agents           | Function calling + memory           | ✅ Concluded            |
+| 4 — Backend AI          | PostgreSQL + Docker, in production  | ✅ Concluded            |
+| YUYU AI ERP             | Future Hero Project                 | 🔜 Next                |
 
-![Snake animation](https://github.com/yuribrunoss/yuribrunoss/blob/output/github-contribution-grid-snake.svg)
+---
 
--->
+## 🛠️ Tech Stack — what I've actually built with
+
+**Backend:** Python · FastAPI · PostgreSQL · SQLite
+**AI:** Google Gemini API (incl. function calling / AI agents)
+**Infra & Tools:** Docker · Git & GitHub · VS Code · uv
+
+**Currently learning:** GitHub Actions (CI/CD) · testing with Pytest · English (daily practice)
+
+---
+
+## 📊 GitHub Stats
+
+![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuribrunoss&show_icons=true&theme=default&hide_title=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuribrunoss&layout=compact&hide_title=true)
+
+---
+
+## 🌎 Connect
+
+- 💻 GitHub — [@yuribrunoss](https://github.com/yuribrunoss)
+- 🔗 LinkedIn — Yuri Bruno
+- 📍 Natal, RN — Brazil · open to remote roles (Brazil, Europe, North America)
+
+---
+
+> Building one real project at a time — documented, tested, and shipped in public.
