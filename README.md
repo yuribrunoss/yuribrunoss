@@ -21,6 +21,9 @@ time instead of collecting certificates.
 Every milestone below is code that runs, gets tested end-to-end, and gets
 deployed — not just a plan.
 
+📚 My first steps in Python (fundamentals, terminal scripts) are documented
+in my previous account: [github.com/ybss84](https://github.com/ybss84)
+
 ---
 
 ## 🚀 Featured Project — AI Feedback Classifier
@@ -52,7 +55,7 @@ code before moving to the next:
 | 2 — Automation          | Decision + action logic             | ✅ Concluded            |
 | 3 — AI Agents           | Function calling + memory           | ✅ Concluded            |
 | 4 — Backend AI          | PostgreSQL + Docker, in production  | ✅ Concluded            |
-| YUYU AI ERP             | Future Hero Project                 | 🔜 Next                |
+| YUYU AI ERP             | Future Hero Project — not started  | 🔜 Next                |
 
 ---
 
