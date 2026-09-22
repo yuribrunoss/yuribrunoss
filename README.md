@@ -6,27 +6,16 @@
 
 🇧🇷 Natal, Rio Grande do Norte — Brazil • 🌍 Open to Remote Opportunities
 
-🇺🇸 [English](README.md) · 🇧🇷 [Português](README.pt-BR.md) · 🇪🇸 [Español](README.es.md) · 🇫🇷 [Français](README.fr.md) · 🇮🇹 [Italiano](README.it.md)
-
 ---
 
-I'm a Brazilian developer transitioning into **AI Engineering**, building real,
-production-tested software instead of collecting tutorials — and documenting
-the whole journey publicly through **Missão IA Global**.
+I'm a Brazilian developer transitioning into **AI Engineering**, coming from a
+background in IT support and digital operations (Aptek Tecnologia, Grupo
+Services, Beltrasi Renz) with a technical degree in Information Technology.
+I'm building real, production-tested software instead of collecting
+tutorials — one project at a time, documented publicly through **Missão IA
+Global**.
 
-## 🧭 About Me
-
-I come from a background in IT support and digital operations (Aptek
-Tecnologia, Grupo Services, Beltrasi Renz) and hold a technical degree in
-Information Technology. I'm now focused on becoming an **AI Automation
-Developer / Backend Developer**, learning by shipping one real project at a
-time instead of collecting certificates.
-
-Every milestone below is code that runs, gets tested end-to-end, and gets
-deployed — not just a plan.
-
-📚 My first steps in Python (fundamentals, terminal scripts) are documented
-in my previous account: [github.com/ybss84](https://github.com/ybss84)
+📚 My first steps in Python are documented in my previous account: [github.com/ybss84](https://github.com/ybss84)
 
 ## 🚀 Featured Project — AI Feedback Classifier
 
@@ -44,20 +33,7 @@ when a case needs a human.
 🔗 **Live API docs:** [missao-ia-global-classificador.onrender.com/docs](https://missao-ia-global-classificador.onrender.com/docs)
 📂 **Code:** [github.com/yuribrunoss/missao-ia-global](https://github.com/yuribrunoss/missao-ia-global)
 
-## 🗺️ Missão IA Global — Roadmap
-
-My learning roadmap, one volume at a time — each one shipped as real, tested
-code before moving to the next:
-
-| Volume | Focus | Status |
-| --- | --- | --- |
-| 1 — Python for AI | First Gemini-powered CLI | ✅ Concluded |
-| 2 — Automation | Decision + action logic | ✅ Concluded |
-| 3 — AI Agents | Function calling + memory | ✅ Concluded |
-| 4 — Backend AI | PostgreSQL + Docker, in production | ✅ Concluded |
-| YUYU AI ERP | Future Hero Project — not started | 🔜 Next |
-
-## 🛠️ Tech Stack — what I've actually built with
+## 🛠️ Tech Stack
 
 **Backend:** Python · FastAPI · PostgreSQL · SQLite
 **AI:** Google Gemini API (incl. function calling / AI agents)
@@ -69,6 +45,18 @@ code before moving to the next:
 
 ![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuribrunoss&show_icons=true&theme=default&hide_title=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuribrunoss&layout=compact&hide_title=true)
+
+## 🗺️ Roadmap — Missão IA Global
+
+One volume at a time, each shipped as real, tested code before moving to the next:
+
+| Volume | Focus | Status |
+| --- | --- | --- |
+| 1 — Python for AI | First Gemini-powered CLI | ✅ Concluded |
+| 2 — Automation | Decision + action logic | ✅ Concluded |
+| 3 — AI Agents | Function calling + memory | ✅ Concluded |
+| 4 — Backend AI | PostgreSQL + Docker, in production | ✅ Concluded |
+| YUYU AI ERP | Future Hero Project — not started | 🔜 Next |
 
 ## 🌎 Connect
 
