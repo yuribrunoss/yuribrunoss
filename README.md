@@ -43,8 +43,10 @@ when a case needs a human.
 
 ## 📊 GitHub Stats
 
-![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuribrunoss&show_icons=true&theme=default&hide_title=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuribrunoss&layout=compact&hide_title=true)
+![Followers](https://img.shields.io/github/followers/yuribrunoss?label=Followers&style=flat)
+![Last commit](https://img.shields.io/github/last-commit/yuribrunoss/missao-ia-global?label=Last%20commit)
+![Top language](https://img.shields.io/github/languages/top/yuribrunoss/missao-ia-global)
+![Repo stars](https://img.shields.io/github/stars/yuribrunoss/missao-ia-global?style=flat)
 
 ## 🗺️ Roadmap — Missão IA Global
 
